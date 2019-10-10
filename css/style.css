@@ -2,6 +2,7 @@ body {
     background-image: url('https://wallpaperplay.com/walls/full/4/f/6/112300.jpg');
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
+    background-attachment: fixed;
 }
 
 #navbar {
@@ -32,18 +33,23 @@ body {
 .intro {
     font-size: 20px;
     background-image: url('https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/39410334_1951432698247364_134727252855226368_n.jpg?_nc_cat=104&_nc_oc=AQl8Fd_a5grc2Ht05H1STovjrNoLj1ma-m3VVxAQksdGRJqCZnL-8TECAjVI-kWFvkNlBjnMInGvyq1rC7dqF2Z2&_nc_ht=scontent-sea1-1.xx&oh=2ec7678c168b777597ff416861c31d6e&oe=5E1B096D');
-    padding: 100px;
+    margin-top: 30px;
     background-size: cover;
+    border-radius: 10px;
 
 }
 
 .box1 {
-    background-color: rgba(0, 0, 0, 0.664);
+    background-color: rgba(0, 0, 0, 0.568);
+    padding-top: 20px;
+    border-radius: 10px;
 }
 
 .pine {
     color: rgb(240, 240, 240);
-    font-size: 40px;
+    font-size: 45px;
+    padding: 15px;
+    /* text-align: center; */
 }
 
 .pineA {
@@ -52,5 +58,94 @@ body {
 
 .introHr {
     background-color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    
     
 }
+
+.container {
+    
+}
+
+.ivan {
+    font-size: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    color: rgb(238, 238, 238);
+    text-align: center;
+    
+}
+
+.PA {
+    color: pink;
+}
+
+.wedding {
+    background-image: url('https://cdn.sandals.com/sandals/v12/images/weddings/free/wedding-couple-running-in-the-water.jpg');
+    background-size: cover;
+    padding: 100px;
+}
+
+.wedding1 {
+    background-image: url("https://cdn.sandals.com/sandals/v12/images/weddings/free/wedding-couple-running-in-the-water.jpg");
+    padding: 100px;
+    background-size: cover;
+    color: white;
+}
+
+.corporate {
+    background-image: url('https://greattripcharter.com/wp-content/uploads/2019/01/events.jpg');
+    padding: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+
+.corporate1 {
+    background-image: url('https://greattripcharter.com/wp-content/uploads/2019/01/events.jpg');
+    padding: 100px;
+    color: white;
+    border-color: black;
+    background-size: cover;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.726):
+}
+
+.dj {
+    background-image: url("http://static1.squarespace.com/static/553ccddae4b05ab385e22d29/553cf2d5e4b080029b4976b9/56a48c597086d7ad1b264527/1486280626452/?format=1500w");
+    padding: 100px;
+    color: white;
+    background-size: cover;
+    font-size: 40px;
+}
+
+.dj1 {
+    background-image: url("http://static1.squarespace.com/static/553ccddae4b05ab385e22d29/553cf2d5e4b080029b4976b9/56a48c597086d7ad1b264527/1486280626452/?format=1500w");
+    padding: 100px;
+    /* border-color: black; */
+    color: white;
+    background-size: cover;
+    font-size: 40px;
+    
+}
+
+#djGig {
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.bottomHr {
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.aTitle {
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+
+
+
