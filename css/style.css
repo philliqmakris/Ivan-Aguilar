@@ -1,0 +1,56 @@
+body {
+    background-image: url('https://wallpaperplay.com/walls/full/4/f/6/112300.jpg');
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#navbar {
+    background-color: black;
+}
+
+.logo {
+    font-size: 40px;
+    color: pink;
+    padding: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.name {
+    padding-left: 200px;
+    padding-top: 15px;
+}
+
+.intro {
+    background-color: pink;
+    
+}
+
+.memories {
+    font-size: 12px;
+}
+
+.intro {
+    font-size: 20px;
+    background-image: url('https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/39410334_1951432698247364_134727252855226368_n.jpg?_nc_cat=104&_nc_oc=AQl8Fd_a5grc2Ht05H1STovjrNoLj1ma-m3VVxAQksdGRJqCZnL-8TECAjVI-kWFvkNlBjnMInGvyq1rC7dqF2Z2&_nc_ht=scontent-sea1-1.xx&oh=2ec7678c168b777597ff416861c31d6e&oe=5E1B096D');
+    padding: 100px;
+    background-size: cover;
+
+}
+
+.box1 {
+    background-color: rgba(0, 0, 0, 0.664);
+}
+
+.pine {
+    color: rgb(240, 240, 240);
+    font-size: 40px;
+}
+
+.pineA {
+    color: pink;
+}
+
+.introHr {
+    background-color: white;
+    
+}
